@@ -54,7 +54,7 @@
             android:layout_gravity="center"
             android:fontFamily="serif-monospace"
             android:padding="10dp"
-            android:text="How We Empower Southeast Asia"
+            android:text="How We Empower Southeast Asia "
             android:textColor="@color/colorOrange"
             android:textSize="15dp"
             android:textStyle="bold" />
