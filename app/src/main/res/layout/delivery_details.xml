@@ -179,12 +179,13 @@
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="32dp"
-        android:layout_marginRight="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
         android:text="RM Price"
         android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/textView14"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="583dp" />
+        app:layout_constraintTop_toTopOf="@+id/textView14" />
 
     <View
         android:id="@+id/divider5"
